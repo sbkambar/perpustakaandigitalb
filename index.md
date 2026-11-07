@@ -2,7 +2,8 @@
 Selamat Datang di Perpustakaan Digital
 Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
-1. [Bumi (Tere Liye)](ebook/Bumi (Tere Liye).pdf) – Tere Liye 
+1. [Animal Farm (George Orwell)](ebook/Animal Farm (George Orwell).pdf) – George Orwell
+2. [Bumi (Tere Liye)](ebook/Bumi (Tere Liye).pdf) – Tere Liye 
 3. [Egosentris (Syahid Muhammad)](ebook/Egosentris (Syahid Muhammad).pdf) – Syahid Muhammad
 4. [I Want to Eat Your Pancreas (Yoru Sumino)](ebook/I Want to Eat Your Pancreas (Yoru Sumino).pdf) - Yoru Sumino
 5. [Keajaiban Toko Kelontong Namiya (Keigo Higashino)](ebook/Keajaiban Toko Kelontong Namiya (Keigo Higashino).pdf) - Keigo Higashino
