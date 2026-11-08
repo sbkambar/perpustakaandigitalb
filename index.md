@@ -12,5 +12,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 8. [The Lightning Thief (Percy Jackson and the Olympians Book 1)](ebook/The Lightning Thief (Percy Jackson and the Olympians Book 1).pdf) - Rick Riordan (2005)
 9. [The Midnight Library](ebook/The Midnight Library.pdf) - Matt Haig (2020)
 10. [The Second Shift](ebook/The Second Shift.pdf) - Arlie Hochschild, Anne Machung (2003)
+11. [Resume UGC pati](ebook/Resume UGC pati.pdf) - Sabika (2026)
 
 *Powered by GitHub Pages*
